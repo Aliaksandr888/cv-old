@@ -14,7 +14,7 @@ In 2020, I decided to change the sphere in favor of a more promising industry. I
 
 
 ## Skills
-*HTML
+* HTML
 * CSS
 * JavaScript
 * React
